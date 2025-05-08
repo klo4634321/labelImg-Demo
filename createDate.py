@@ -10,8 +10,8 @@ from pathlib import Path
 
 # 設定標籤名稱
 # 這裡的標籤名稱會影響到生成的 txt 檔案名稱
-label_artist_name = "artist3"
-label_class_number = 2
+label_artist_name = "artist2"
+label_class_number = 1
 
 def random_paste(target_img, bg_img):
     th, tw = target_img.shape[:2]

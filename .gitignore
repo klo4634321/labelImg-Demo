@@ -399,8 +399,8 @@ FodyWeavers.xsd
 
 
 
-artist001_rawimages/
-artist002_rawimages/
+artist1_rawimages/
+artist2_rawimages/
 backgrounds/
 target_images/
 output_dataset/
