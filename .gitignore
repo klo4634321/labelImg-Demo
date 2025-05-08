@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+
+artist001_rawimages/
+artist002_rawimages/
+backgrounds/
+target_images/
+output_dataset/
