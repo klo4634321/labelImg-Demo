@@ -61,3 +61,19 @@ pip install opencv-python
 
 程式執行完畢後，會於 `output_dataset/images/` 生成合成圖像，
 並在 `output_dataset/labels/` 生成對應的 YOLO 標註檔案。
+
+
+
+## 🖼️ 合成示意圖
+
+下圖示範了將前景圖貼合至背景後的合成結果：
+
+<p align="center">
+  <img src="https://github.com/klo4634321/labelImg-Demo/blob/main/Demonstration_Image/target.jpg" height = "200" width="200"/>
+  <strong>+</strong>
+  <img src="https://github.com/klo4634321/labelImg-Demo/blob/main/Demonstration_Image/bg.jpg" height = "200" width="200"/>
+  <strong>=</strong>
+  <img src="https://github.com/klo4634321/labelImg-Demo/blob/main/Demonstration_Image/output.jpg" height = "200" width="200"/>
+</p>
+
+
